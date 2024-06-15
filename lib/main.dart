@@ -6,7 +6,7 @@ import 'package:portfolio/utils/screen/screen_utils.dart';
 void main() {
   runApp(MyApp());
 }
-
+  //StatelessWidget
 class MyApp extends StatelessWidget {
 
   @override
